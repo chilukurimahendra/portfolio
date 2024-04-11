@@ -1,0 +1,7 @@
+label{
+    color:blue
+}
+form{
+    display: grid;
+    place-items: center;
+}
